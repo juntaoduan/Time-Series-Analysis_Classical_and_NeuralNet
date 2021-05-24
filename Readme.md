@@ -65,5 +65,6 @@ Please feel free to reach me at
 
 ## Reference
 * [AileenNielsen](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
+* [Informer2020](https://github.com/zhouhaoyi/Informer2020)
 * [Manishms18](https://github.com/Manishms18/Air-Passengers-Time-Series-Analysis) 
 * [TorchTransfomer](https://github.com/pytorch/pytorch/blob/master/torch/nn/modules/transformer.py)
