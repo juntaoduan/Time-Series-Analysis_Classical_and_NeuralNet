@@ -29,7 +29,8 @@ Major steps involved in transformer:
 * STEP: 3 - Build transformer 
 * STEP: 4 - Train and fine-tune parameters on the data
 * STEP: 5 - Testing and saving model
-** compare the methods on single variable and multiple variables time series data
+
+** Compare the methods on single variable and multiple variables time series data
 
 ## Results
 
