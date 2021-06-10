@@ -34,9 +34,9 @@ Major steps involved in transformer:
 
 ## Results
 
-%![Results screenshot](./images/results.png)
-
-
+%![Arima](./ET_Arima.png)
+%![Transformer](./ET_Transformer.png)
+%![Transformer with linear head](./ET_Transformer_LH.png)
 
 
 ## Methods and Tools
