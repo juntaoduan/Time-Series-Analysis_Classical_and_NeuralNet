@@ -8,7 +8,7 @@ Explore and compare classical time series models, such as Arima, with deep learn
     * Continuous vs discrete. Language naturally is discrete and can be easily embeded into a low dimensional space. It is possible to memorize the seperation of discrete signals. On the other hand, continous time series signal is more adapted to a decomposition type modeling such as Fourier and wavelet transformations.
     * Data scale:  i.i.d large squences (almost infinitely many squences) vs weak dependent seuence(one squence). Language training dataset is enoumous (considering [common crawl](https://github.com/juntaoduan/Time-Series-Analysis_Classical_and_NeuralNet/edit/main/Readme.md) have hundreds of TB data) naturally repeat itself with specific lingustic structures and patterns. Even though each sentence is sequentially produced but the training data have i.i.d. of thes sentences.  On the other hand, time series sequence has only one unique observed sample from a stochastic system.
 * 2. Is calssical statistical method the only way to model time series?
-    * The answer is False. When dataset is large and complex, classical method is too simple and naive which losses much of the details. Then there is an alternative solution that is to handcraft features and uses tree-type of structure discovering models, for example Gradient Boosting Tree.
+    * The answer is False. When many time series put together, dataset become large and complex, classical method is too simple and naive which losses much of the details. Then there is an alternative solution that is to handcraft features and uses tree-type of structure discovering models, for example Gradient Boosting Tree.
 
    
 ## Table of contents
